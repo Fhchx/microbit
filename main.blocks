@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="!8K?nP%2?)1Nbc%XjA0~" x="560" y="0"/><block type="device_forever" id="vSxD{Qbn%QMm@g{w{OYb" x="169" y="37"><statement name="HANDLER"><block type="controls_if" id="4hEF@.yTWTof9e6l}O#o"><mutation else="1"/><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="device_pin_is_pressed" id="_,QSG6pz+7N$A;,RLRa0"><field name="NAME">TouchPin.P1</field></block></value><statement name="DO0"><block type="basic_show_icon" id="7LRw,q6s7`QgVUb{:dad"><field name="i">IconNames.No</field><next><block type="device_show_leds" id="xvgs`2/^Iq-v(fhEh]|7"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_play_note" id="oO,0}M?8;7aJgJR^hot{"><value name="note"><shadow type="device_note" id="+0jltfvg7H!9rIky9V~W"><field name="name">880</field></shadow></value><value name="duration"><shadow type="device_beat" id="3u/-B^a;G!pB;;*|PnOq"><field name="fraction">BeatFraction.Whole</field></shadow></value></block></next></block></next></block></statement><statement name="ELSE"><block type="device_show_leds" id="QmEQ[/#uFvMRpE,{z*xS"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block></statement></block></xml>
